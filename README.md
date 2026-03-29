@@ -16,6 +16,4 @@ Currently completing an M.S. in Human Factors Engineering at Tufts University, w
 
 ---
 
-Reach me: [infania@infaniapimentel.com](mailto:infania@infaniapimentel.com)  
-Portfolio: [infaniapimentel.com](https://infaniapimentel.com)  
-LinkedIn: [LinkedIn](https://www.linkedin.com/in/infania-pimentel-a25778231)
+Reach me: [infania@infaniapimentel.com](mailto:infania@infaniapimentel.com) | Portfolio: [infaniapimentel.com](https://infaniapimentel.com) | LinkedIn: [LinkedIn](https://www.linkedin.com/in/infania-pimentel-a25778231)
