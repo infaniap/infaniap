@@ -1,6 +1,6 @@
 ## Hi there! I'm Infania, let's dive in...
 
-I design embedded systems for physical–digital products and validate them using in human factors principles and testing. 
+I design embedded systems for physical–digital products and validate them through human factors principles and usability testing.
 
 My work combines:
 - Hardware–software integration  
@@ -16,4 +16,6 @@ Currently completing an M.S. in Human Factors Engineering at Tufts University, w
 
 ---
 
-Reach me: ipimen03@tufts.edu | www.linkedin.com/in/infania-pimentel-a25778231
+Reach me: ipimen03@tufts.edu
+Portfolio: [infaniapimentel.com](https://infaniapimentel.com)  
+LinkedIn: [LinkedIn](https://www.linkedin.com/in/infania-pimentel-a25778231)
